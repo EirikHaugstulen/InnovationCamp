@@ -24,8 +24,8 @@ header a{
     text-decoration: none;
     font-size: 20px;
     display: inline;
-    float: right;
     padding: 15px 20px 0 20px;
+    float: right;
 }
 .HjemTittel{
     float: left;
@@ -42,7 +42,4 @@ li{
 header a:hover{
     color: #cccccc;
     font-weight: bold;
-}
-.nav{
-    float: right;
 }
