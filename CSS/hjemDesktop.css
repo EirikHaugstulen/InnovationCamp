@@ -17,15 +17,15 @@ header{
 ul{
     margin: 0;
     padding: 0;
+    float: right;
 }
 header a{
     color: white;
     text-transform: capitalize;
     text-decoration: none;
     font-size: 20px;
-    display: inline;
+    display: inline-flex;
     padding: 15px 20px 0 20px;
-    float: right;
 }
 .HjemTittel{
     float: left;
@@ -38,6 +38,7 @@ header .active{
 }
 li{
     list-style-type: none;
+    display: inline-flex;
 }
 header a:hover{
     color: #cccccc;
