@@ -45,3 +45,15 @@ header a:hover{
     color: #cccccc;
 
 }
+
+/*--- Innhold ---*/
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.overskrift{
+    text-align: center;
+    font-size: 22px;
+}
