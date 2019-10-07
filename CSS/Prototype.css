@@ -1,10 +1,17 @@
+body{
+background-color: lightgreen;
+}
+
 .prototypeTittel{
     font-size: 30px;
     text-align: center;
+    font-family: Futura;
 }
 
-.bilderProtoype{
-    display: block;
-    margin-left: auto;
+img{
+    display: inline-block;
+    margin-left: 50px;
     margin-right: auto;
+    width: 15%;
+    border: black solid 3px;
 }
