@@ -4,7 +4,7 @@ body{
 }
 
 header{
-    background: #79BA72;
+    background: linear-gradient(57deg ,#40a72f, #79BA72);
     color: #ffffff;
     padding-top: 30px;
     min-height: 70px;
@@ -49,11 +49,52 @@ header a:hover{
 /*--- Innhold ---*/
 
 .container{
-    width: 80%;
-    margin: 0 auto;
+    margin-top: 0;
+    height: 80vh;
+    background: linear-gradient(57deg, #40a72f, #79BA72);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 0% 100%);
+    -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 0% 100%);
 }
 
 .overskrift{
     text-align: center;
     font-size: 22px;
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    padding-top: 100px;
+    color: #fff;
 }
+.overskrift h1{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 80px;
+    -webkit-text-stroke-width: 0.2px;
+    -webkit-text-stroke-color: black;
+
+}
+.overskrift button{
+    font-weight: bold;
+    font-size: 22px;
+    padding: 10px 25px;
+    color: white;
+    background: linear-gradient(57deg, #31a71d, #86ba7f);
+    border-radius: 5px;
+}
+
+.FFbilde{
+    width: 100%;
+    text-align: center;
+    height: 1200px;
+    margin-top: -200px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../PICS/huske.jpg");
+    background-position: center;
+
+}
+.FFbilde h1{
+    padding-top: 400px;
+    color: #fff;
+}
+
+
+
+
