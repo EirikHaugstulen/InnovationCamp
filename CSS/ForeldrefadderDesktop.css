@@ -81,6 +81,10 @@ header a:hover{
     border-radius: 5px;
 }
 
+.overskrift button:hover{
+    background: linear-gradient(118deg, #31a71d, #86ba7f);
+}
+
 .FFbilde{
     width: 100%;
     text-align: center;
