@@ -53,6 +53,14 @@ header a:hover{
     text-align: center;
 }
 
+.bildeHjem{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: auto;
+    width: 15%;
+    border: black solid 3px;
+}
+
 
 
 
