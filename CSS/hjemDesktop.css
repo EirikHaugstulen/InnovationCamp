@@ -45,11 +45,14 @@ header a:hover{
     color: #cccccc;
 }
 
+.tittel{
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .tittelBevisst{
     font-family: Futura;
     font-size: 50px;
-    margin-right: auto;
-    margin-left: auto;
 }
 
 
