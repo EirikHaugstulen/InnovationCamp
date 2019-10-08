@@ -1,10 +1,16 @@
 html {
-    background-image: linear-gradient(#79BA72, white);
 }
 
 body {
     padding: 0;
     margin: 0;
+
+    background-image: linear-gradient(#79BA72, white);
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    background-height: 100vh;
+    border-radius: 10px;
+    overflow: hidden;
 }
 
 
@@ -12,6 +18,7 @@ body {
     width: 80%;
     margin: 0 auto;
     position: relative;
+
 }
 
 .overskrift {
