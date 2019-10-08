@@ -15,10 +15,14 @@ header{
     top: 0;
     z-index: 2;
 }
+.Navigasjonsbar {
+    font-family: Roboto;
+}
 .Navigasjonsbar ul{
     margin: 0;
     padding: 0;
     float: right;
+
 }
 header a{
     color: white;
@@ -49,7 +53,7 @@ header a:hover{
 
 .tittelBevisst{
     font-family: Futura;
-    font-size: 80px;
+    font-size: 90px;
     text-align: center;
     font-style: italic;
 }
