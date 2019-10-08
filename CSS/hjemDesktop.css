@@ -15,7 +15,7 @@ header{
     top: 0;
     z-index: 2;
 }
-ul{
+.Navigasjonsbar ul{
     margin: 0;
     padding: 0;
     float: right;
@@ -38,7 +38,8 @@ header .active{
     color: white;
     font-weight: bold;
 }
-li{
+
+.liste li{
     list-style-type: none;
     display: inline-flex;
 }
@@ -74,6 +75,7 @@ img{
     font-size: 20px;
     font-style: italic;
 }
+
 
 
 

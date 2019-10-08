@@ -9,8 +9,9 @@ body {
     background-size:100% 100%;
     background-repeat:no-repeat;
     background-height: 100vh;
-    border-radius: 10px;
+    border-radius: 0px;
     overflow: hidden;
+    background-color: white;
 }
 
 
@@ -24,6 +25,10 @@ body {
 .overskrift {
     text-align: center;
     font-size: 22px;
+}
+
+.listeMag {
+    text-align: center;
 }
 
 
