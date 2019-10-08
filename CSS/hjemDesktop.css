@@ -17,6 +17,7 @@ header{
 }
 .Navigasjonsbar {
     font-family: Roboto;
+    font-size: 30px;
 }
 .Navigasjonsbar ul{
     margin: 0;

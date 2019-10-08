@@ -5,13 +5,13 @@ body {
     padding: 0;
     margin: 0;
 
-    background-image: linear-gradient(#79BA72, lightgreen);
+    background-image: linear-gradient(#79BA72, lightgreen, #d6ecd2);
     background-size:100% 100%;
     background-repeat:no-repeat;
     background-height: 100%;
     border-radius: 0px;
     overflow: hidden;
-    background-color: white;
+    background-color: #d6ecd2;
 }
 
 
