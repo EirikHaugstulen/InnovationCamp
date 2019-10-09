@@ -15,3 +15,38 @@ img{
     width: 15%;
     border: black solid 3px;
 }
+
+.bildeTekst{
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+.hjemTekst{
+    margin-right: 1150px;
+    margin-left: 50px;
+    position: absolute;
+}
+
+.støtteTekst{
+    margin-left: 325px;
+    margin-right: 870px;
+    position: absolute;
+}
+
+.qrkodeTekst{
+    margin-left: 610px;
+    margin-right: 630px;
+    position: absolute;
+}
+
+.donasjonTekst{
+    margin-left: 885px;
+    margin-right: 325px;
+    position: absolute;
+}
+
+.poengTekst{
+    margin-left: 1160px;
+    margin-right: 50px;
+    position: absolute;
+}
