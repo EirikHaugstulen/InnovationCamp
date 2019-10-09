@@ -34,11 +34,12 @@ body {
     margin: 0;
 }
 .tekst img {
-    display: block;
     width: 30%;
     float:right;
     height: auto;
     margin-right: 0;
+    padding-bottom: 5%;
+    border:none;
 }
 
 h1{
