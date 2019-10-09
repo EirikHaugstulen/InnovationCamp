@@ -1,4 +1,6 @@
-
+html{
+    scroll-behavior: smooth;
+}
 /*--- Innhold ---*/
 
 .container{
@@ -24,7 +26,10 @@
 
     -webkit-text-stroke-width: 0.2px;
     -webkit-text-stroke-color: black;
-
+}
+.overskrift a{
+    text-decoration: none;
+    color: white;
 }
 .Knapp{
     font-weight: bold;
@@ -200,6 +205,7 @@ hr{
 .lukk:hover{
     color: black;
     text-decoration: none;
+    cursor: pointer;
 }
 
 
