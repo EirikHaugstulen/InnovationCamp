@@ -18,7 +18,6 @@ body {
 .container {
     width: 80%;
     margin: 0 auto;
-
 }
 
 .overskrift {
@@ -30,6 +29,9 @@ body {
 .listeMag {
     text-align: left;
     margin-left: 38%;
+}
+.listeMag ul {
+    list-style-type: square;
 }
 
 .listeMag li {
