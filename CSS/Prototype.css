@@ -16,12 +16,51 @@ img{
     border: black solid 3px;
 }
 
+
 .bildeTekst{
     font-family: Roboto;
     font-size: 15px;
     display: inline-flex;
+    width: 100%;
+}
+.hjemTekst{
+    display: inline-block;
+    margin-left: 4%;
+    margin-right: 0;
+    width: 15%;
+
+}.hjemTekst{
+
+ }
+
+.støtteTekst{
+    display: inline-block;
+    margin-left: 5%;
+    margin-right: 0;
+    width: 15%;
 }
 
+.qrkodeTekst{
+    display: inline-block;
+    margin-left: 5%;
+    margin-right: 0;
+    width: 15%;
+}
+
+.donasjonTekst{
+    display: inline-block;
+    margin-left: 5%;
+    margin-right: 0;
+    width: 15%;
+}
+
+.poengTekst{
+    display: inline-block;
+    margin-left: 5%;
+    margin-right: 0;
+    width: 15%;
+}
+/*
 .hjemTekst{
     margin-right: 80%;
     margin-left: 3.5%;
