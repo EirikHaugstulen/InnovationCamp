@@ -23,31 +23,31 @@ img{
 }
 
 .hjemTekst{
-    margin-right: 1150px;
-    margin-left: 50px;
+    margin-right: 80%;
+    margin-left: 3.5%;
     position: absolute;
 }
 
 .støtteTekst{
-    margin-left: 325px;
-    margin-right: 870px;
+    margin-left: 22.5%;
+    margin-right: 61%;
     position: absolute;
 }
 
 .qrkodeTekst{
-    margin-left: 610px;
-    margin-right: 630px;
+    margin-left: 42%;
+    margin-right: 42%;
     position: absolute;
 }
 
 .donasjonTekst{
-    margin-left: 885px;
-    margin-right: 325px;
+    margin-left: 61%;
+    margin-right: 23%;
     position: absolute;
 }
 
 .poengTekst{
-    margin-left: 1160px;
-    margin-right: 50px;
+    margin-left: 80%;
+    margin-right: 4%;
     position: absolute;
 }
