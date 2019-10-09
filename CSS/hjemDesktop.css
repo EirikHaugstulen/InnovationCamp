@@ -56,6 +56,9 @@ header a:hover{
     font-size: 80px;
     text-align: center;
     font-style: italic;
+    height: 10px;
+    padding-bottom: 25px;
+    margin-top: auto;
 }
 
 img{
@@ -64,6 +67,7 @@ img{
     margin-right: auto;
     width: 15%;
     border: black solid 3px;
+    height: auto;
 }
 
 .text{
