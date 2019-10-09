@@ -10,7 +10,7 @@ background-color: lightgreen;
 
 img{
     display: inline-block;
-    margin-left: 4%;
+    margin-left: 3.6%;
     margin-right: auto;
     width: 15%;
     border: black solid 3px;
@@ -35,28 +35,28 @@ img{
 
 .støtteTekst{
     display: inline-block;
-    margin-left: 5%;
+    margin-left: 4.5%;
     margin-right: 0;
     width: 15%;
 }
 
 .qrkodeTekst{
     display: inline-block;
-    margin-left: 5%;
+    margin-left: 4.5%;
     margin-right: 0;
     width: 15%;
 }
 
 .donasjonTekst{
     display: inline-block;
-    margin-left: 5%;
+    margin-left: 4.5%;
     margin-right: 0;
     width: 15%;
 }
 
 .poengTekst{
     display: inline-block;
-    margin-left: 5%;
+    margin-left: 4.5%;
     margin-right: 0;
     width: 15%;
 }
