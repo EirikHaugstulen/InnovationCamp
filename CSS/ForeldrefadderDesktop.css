@@ -1,6 +1,18 @@
 html{
     scroll-behavior: smooth;
 }
+
+header a{
+    font-size: 22px;
+}
+
+header ul{
+    font-size: 22px;
+}
+
+header li{
+    font-size: 22px;
+}
 /*--- Innhold ---*/
 
 .container{
@@ -199,5 +211,40 @@ hr{
     cursor: pointer;
 }
 
+@media screen and (max-width: 1400px){
+    .bildeTekstboks{
+        width: 73%;
+    }
+}
+
+@media screen and (max-width: 1063px){
+    .tekstbokser{
+        display: grid;
+        padding: 0;
+    }
+    .tekstboks{
+        width: 70%;
+        margin: 20px auto;
+    }
+    .bildeTekstboks{
+        width: 40%;
+    }
+    .bakgrunn{
+        height: 1850px;
+    }
+}
+
+@media screen and (max-width: 766px){
+    header a{
+        font-size: 8px;
+    }
+    header ul{
+        font-size: 8px;
+    }
+
+    header li{
+        font-size: 8px;
+    }
+}
 
 
