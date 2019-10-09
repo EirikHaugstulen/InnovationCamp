@@ -18,13 +18,25 @@ body {
 .container {
     width: 80%;
     margin: 0 auto;
-}
-
-.overskrift {
     text-align: center;
     font-size: 22px;
     font-family: Roboto;
 }
+.tekst {
+    width: 100%;
+}
+.tekst p{
+    float:left;
+    text-align: left;
+    margin: 0;
+}
+.tekst img {
+    display: block;
+    width: 20%;
+    float:right;
+    height: auto;
+}
+
 h1{
     color: black;
     -webkit-text-stroke-width: 0.3px;
