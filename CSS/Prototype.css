@@ -19,6 +19,7 @@ img{
 .bildeTekst{
     font-family: Roboto;
     font-size: 15px;
+    display: inline-flex;
 }
 
 .hjemTekst{
