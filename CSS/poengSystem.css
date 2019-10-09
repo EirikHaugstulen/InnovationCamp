@@ -25,6 +25,12 @@ body {
     font-size: 22px;
     font-family: Roboto;
 }
+h1{
+    color: black;
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: white;
+    font-size: 300%;
+}
 
 .listeMag {
     text-align: left;
