@@ -24,6 +24,8 @@ body {
 }
 .tekst {
     width: 100%;
+    height: auto;
+    padding: 1%;
 }
 .tekst p{
     float:left;
