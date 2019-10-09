@@ -49,7 +49,7 @@ html{
 .FFbilde{
     width: 100%;
     text-align: center;
-    height: 1200px;
+    height: 120vh;
     margin-top: -200px;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../PICS/huske.jpg") fixed;
     background-position: center;
@@ -57,7 +57,7 @@ html{
 }
 
 .FFbilde h1{
-    padding-top: 600px;
+    padding-top: 500px;
     color: #fff;
 }
 .FFbilde p{
@@ -138,16 +138,7 @@ html{
     font-size: 20px;
 }
 
-footer{
-    height: 50px;
-    background-color: #146e0e;
-    text-align: center;
-    color: #939393;
-    padding: 20px;
-}
-footer p{
-    margin: 20px auto;
-}
+
 
 /* --- Skjema --- */
 
