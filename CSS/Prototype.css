@@ -5,7 +5,7 @@ background-color: lightgreen;
 .prototypeTittel{
     font-size: 30px;
     text-align: center;
-    font-family: Roboto;
+    font-family: Futura;
 }
 
 img{
@@ -18,7 +18,7 @@ img{
 
 
 .bildeTekst{
-    font-family: Roboto;
+    font-family: Futura;
     font-size: 15px;
     display: inline-flex;
     width: 100%;

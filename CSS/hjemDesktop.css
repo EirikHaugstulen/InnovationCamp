@@ -17,7 +17,7 @@ header{
 }
 
 .Navigasjonsbar {
-    font-family: Roboto;
+    font-family: Futura;
 }
 
 .Navigasjonsbar ul{
@@ -53,7 +53,7 @@ header a:hover{
 }
 
 .tittelBevisst{
-    font-family: Roboto;
+    font-family: Futura;
     font-size: 80px;
     text-align: center;
     font-style: italic;

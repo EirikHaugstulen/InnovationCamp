@@ -33,7 +33,7 @@ header li{
     color: #fff;
 }
 .overskrift h1{
-    font-family: Roboto;
+    font-family: Futura;
     font-size: 80px;
 
     -webkit-text-stroke-width: 0.2px;
@@ -107,7 +107,7 @@ header li{
 }
 
 .tekstboks.boks2 h1{
-    font-family: Roboto;
+    font-family: Futura;
     text-align: center;
 }
 .tekstboks.boks2 p{
